@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Mogenerator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>MogeneratorMagicalRecord.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>418E932219FAEC1300F50C4E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>418E932819FAECA500F50C4E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41D03A7219FAE8ED006C50F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41D03A8B19FAE8ED006C50F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
